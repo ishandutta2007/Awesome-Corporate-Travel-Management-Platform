@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Travel-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Travel-Management-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Corporate-Travel-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Corporate-Travel-Management-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Travel-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Corporate-Travel-Management-Platform?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Travel-Management-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Corporate-Travel-Management-Platform?style=flat-square" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Corporate-Travel-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Corporate-Travel-Management-Platform?style=flat-square" alt="License"/></a>
@@ -76,11 +76,11 @@ This section lists open-source trip planning software, expense trackers, and app
 
 > 💡 **Open-Source Reality Check**: No single production-ready open-source system provides full GDS/NDC corporate booking engines out of the box. However, combining the top repos below offers a complete self-hosted foundation for itinerary management, expenses, and approvals!
 
-Projects are sorted by **GitHub Stars (Descending)** with direct links to stargazers:
+Projects are sorted by **GitHub_Stars (Descending)** with direct links to stargazers:
 
 ### 🛠️ Open-Source Projects Table
 
-| Project | Description | Stars Badge | License | Tech Stack |
+| Project | Description | Stars_Badge | License | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | **[TREK](https://github.com/liketrek/TREK)** | Mature self-hosted travel planner with drag-and-drop itineraries, budget tracking, real-time collaboration, and Model Context Protocol (MCP) AI integration. | [<img src="https://img.shields.io/github/stars/liketrek/TREK?style=social&color=white" alt="TREK Stars"/>](https://github.com/liketrek/TREK/stargazers) | AGPL-3.0 | Docker, Node.js, Leaflet, PWA |
 | **[AdventureLog](https://github.com/seanmorley15/AdventureLog)** | Self-hostable travel tracker and trip planner. Enables multi-day itinerary building, place logging, and interactive world maps. | [<img src="https://img.shields.io/github/stars/seanmorley15/AdventureLog?style=social&color=white" alt="AdventureLog Stars"/>](https://github.com/seanmorley15/AdventureLog/stargazers) | GPL-3.0 | Vue, Node.js, Maps |
